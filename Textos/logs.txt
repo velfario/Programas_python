@@ -1,0 +1,8 @@
+Este es un registro de actividades
+==================================
+Autor: César Hernádez
+Fecha 2025-01-14
+
+Resultados:
+18:52 creacion del log
+19:11 creación de pares.py
